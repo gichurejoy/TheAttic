@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22860805240",
+    "project_id": "the-attic-db063",
+    "storage_bucket": "the-attic-db063.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22860805240:android:76671abc08fb6430f7298d",
+        "android_client_info": {
+          "package_name": "com.gichure.theattic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22860805240-4gb3tfg6mogps6hg9qegtr9grnue0h82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfTe_gChn41af5Z6v5P1QBZZNcrc2pHMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22860805240-4gb3tfg6mogps6hg9qegtr9grnue0h82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
